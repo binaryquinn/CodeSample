@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>empty.gif</file>
+        <file>complete.gif</file>
+        <file>treegrow.gif</file>
+        <file>scales.gif</file>
+    </qresource>
+</RCC>
